@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="960"
+   height="350"
+   viewBox="0 0 253.9968 92.603"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   sodipodi:docname="itch_banner1.svg"
+   inkscape:export-filename="/home/joffrey/Documents/planet-generator/itch_banner1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="630px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     height="300px"
+     inkscape:zoom="1.5037598"
+     inkscape:cx="505.73236"
+     inkscape:cy="205.48495"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="836.89708"
+       y="396.65673"
+       width="690.39653"
+       height="162.793"
+       id="rect4955" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.273258"
+       id="rect216"
+       width="253.9968"
+       height="92.602997"
+       x="2.220446e-16"
+       y="-4.4408921e-16" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:73.1881px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.381188"
+       x="215.09555"
+       y="68.914032"
+       id="text2391"><tspan
+         sodipodi:role="line"
+         id="tspan2389"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.1881px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#ffcc00;stroke-width:0.381188"
+         x="215.09555"
+         y="68.914032">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.8318px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.372748"
+       x="15.645051"
+       y="55.749054"
+       id="text2388"
+       transform="scale(0.97785787,1.0226435)"><tspan
+         sodipodi:role="line"
+         id="tspan2386"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.8318px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;stroke-width:0.372748"
+         x="15.645051"
+         y="55.749054"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.372748"
+   id="tspan30684">2D Planets Pack</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458)"
+       id="text4953"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect4955)" />
+  </g>
+</svg>
