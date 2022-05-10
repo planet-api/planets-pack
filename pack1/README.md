@@ -16,5 +16,5 @@ First pack of 240+ 2D planets sprites, for free. Randomly generated planets, ren
 - Tundra
 - Green / Wildlife
 - Lava / Sun
-- 
+
 This pack is totally free for personal and commercial use.
